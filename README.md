@@ -14,9 +14,16 @@ src="https://img.shields.io/twitch/status/Aut_Craft?logo=twitchsx&style=for-the-
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/autcraft"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://tipme.in.th/autcraft"><img src="https://tipme.in.th/_assets/assets/f36c3097.svg" width="150"/></a></li>
-
+<ul style="list-style-type: none; margin: 0; padding: 0; display: flex; gap: 0.25rem;">
+  <li>
+    <a href="https://www.buymeacoffee.com/autcraft">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://tipme.in.th/autcraft">
+      <img src="https://tipme.in.th/_assets/assets/f36c3097.svg" width="150"/>
+    </a>
+  </li>
 </ul>
+
